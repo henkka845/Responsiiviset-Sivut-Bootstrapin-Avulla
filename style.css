@@ -1,3 +1,11 @@
 html {
     overflow-y: scroll;
 }
+
+body {
+    background-color: #e9ecef;
+}
+
+h1, h2, h3 {
+    color: #0d3b66;
+}
